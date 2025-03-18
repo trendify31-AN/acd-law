@@ -38,19 +38,16 @@ const translations = {
         "service2-item6": "International IP Compliance: Navigating IP regulations across global jurisdictions.",
         "service2-content": "At Acker Choquette Dray Legal Consultants, we help you protect your innovations and brand identity with our comprehensive intellectual property (IP) and trademark services. Our team assists with securing patents, copyrights, and trademarks, offering tailored strategies to safeguard your assets from infringement in an increasingly competitive global market. Whether it's registering your intellectual property, enforcing your rights, or ensuring compliance with international regulations, we are committed to providing top-tier legal support to protect what makes your business unique. Let us partner with you to secure your creative and commercial success.",
         "service3": "Criminal Law",
-
-     
-            "service3-key": "Key areas of our criminal law services include:",
-            "service3-item1": "Criminal Defense and Victim Indemnification: Representing clients in criminal cases to safeguard their rights and ensure a fair trial, including in extradition proceedings, Interpol Red Notices, and arrest warrant matters.",
-            "service3-item2": "Legal Advice: Providing expert legal opinion regarding criminal matters to help clients understand their options.",
-            "service3-item4": "Case Management: Offering complete support throughout the legal process, from arrest to trial and sentencing.",
-            "service3-item5": "Appeals: Representing clients in appellate proceedings before various courts including the Court of First Instance, Court of Appeal, and the Supreme Court to challenge unfair convictions or sentences.",
-            "service3-item6": "Compliance: Ensuring compliance with UAE laws, regulations, and procedures throughout the criminal process.",
-       
+        "service3-key": "Key areas of our criminal law services include:",
+        "service3-item1": "Criminal Defense: Representing clients in criminal cases to safeguard their rights and ensure a fair trial, including in extradition proceedings, Interpol Red Notices, and arrest warrant matters.",
+        "service3-item2": "Legal Advice: Providing expert legal opinion regarding criminal matters to help clients understand their options.",
+        "service3-item3": "Criminal claim: Assisting victims of criminal offences and guide them throughout the judicial process. At ACD Law we are assisting victims from the claim to the damages allocation with our team of Emirati's Attorneys",
+        "service3-item4": "Case Management: Offering complete support throughout the legal process, from arrest to trial and sentencing.",
+        "service3-item5": "Appeals: Representing clients in appellate proceedings before various courts including the Court of First Instance, Court of Appeal, and the Supreme Court to challenge unfair convictions or sentences.",
+        "service3-item6": "Compliance: Ensuring compliance with UAE laws, regulations, and procedures throughout the criminal process.",
         "service3-description": "Our criminal law and compliance services in the UAE are designed to provide expert guidance and robust defense. With a deep understanding of the complexities of UAE criminal law and the Dubai justice system, our team of seasoned lawyers ensures comprehensive support throughout every stage of your case. From sound legal advice to developing effective, tailored defense strategies, we are committed to protecting your rights and achieving the best possible outcomes.",
         "service3-item3": "Criminal claim: Assisting victims of criminal offences and guide them throughout the judicial process. At ACD Law we are assisting victims from the claim to the damages allocation with our team of Emirati's Attorneys",
-      
-            "service3-content": "At Acker Choquette Dray Legal Consultants, we specialize in criminal law, offering expert defense strategies and legal advice in the UAE. Our experienced legal team is committed to providing robust representation in criminal cases. We guide clients through every stage of the criminal justice process, ensuring that their rights are protected and their best interests are upheld. All procedures are handled in collaboration with local attorneys representing clients in front of UAE Courts.",
+        "service3-content": "At Acker Choquette Dray Legal Consultants, we specialize in criminal law, offering expert defense strategies and legal advice in the UAE. Our experienced legal team is committed to providing robust representation in criminal cases. We guide clients through every stage of the criminal justice process, ensuring that their rights are protected and their best interests are upheld. All procedures are handled in collaboration with local attorneys representing clients in front of UAE Courts.",
         "service4": "Immigration Law",
         "service4-description": "Immigration Law governs the legal processes and regulations concerning individuals entering, residing in, and departing from a country. It covers a broad spectrum of issues, including visas, work permits, residency, and citizenship, ensuring compliance with national and international laws.",
         "service4-key": "Key areas of immigration law include:",
@@ -94,7 +91,6 @@ const translations = {
             "service7-item3": "Civil and Commercial Disputes: Expertise in resolving civil and commercial disputes through arbitration.",
             "service7-item4": "Dubai International Arbitration Centre (DIAC): Extensive experience disputing claims at DIAC.",
             "service7-item5": "Other Arbitration Centres: Proficient in handling cases at various arbitration centres within the UAE.",
-            "service-title": "Our service",
             "service7-content": "Our team specializes in arbitration and litigation in both within and beyond the UAE. We bring extensive expertise in representing clients in arbitration proceedings, including property disputes, civil matters, and commercial claims. Our proven track record includes successful cases at leading institutions such as the Dubai International Arbitration Centre (DIAC) and other recognized arbitration centers. Whether drafting arbitration agreements or representing you in complex proceedings, we are dedicated to achieving favorable outcomes with efficiency and professionalism.",
        
         "service8": "FAMILY LAW",
@@ -140,7 +136,7 @@ const translations = {
         "team2-item7": "DIFC will Draftman.",
         "about-qst": "Who we are",
         "about-text": "Acker Choquette Dray Legal Consultants.",
-        "about-text-desc": "Our law firm operates out of the Emirate of Dubai, United Arab Emirates, since 1997, under the direction of its founder Mr. Denis Acker and Jordana Dray recently joined as Partner. We provide legal expertise to individual and corporate clients, wishing to establish professional and business activities in the Middle East Region, and to counsel individuals whose intentions are to extend their activities globally.",
+        "about-text-desc": "Our law firm operates out of the Emirate of Dubai, United Arab Emirates, since 1997, under the direction of its founder. <br> Denis Acker and Jordana Dray recently joined as Partner. We provide legal expertise to individual and corporate clients, wishing to establish professional and business activities in the Middle East Region, and to counsel individuals whose intentions are to extend their activities globally.",
         "contact-titre": "Contact us",
         "contact-text": "Blending innovative thinking with exceptional client care is the cornerstone of our practice. We strive to serve our clients with care, diligence, openness and responsibility.",
         "contact-local": "Dubai: Khalid Bin Waleed Road, Bank Street Building, 2nd Floor Office 215, Dubai. PO BOX 21602, United Arab Emirates",
@@ -187,7 +183,7 @@ const translations = {
         "nav-services": "Services",
         "nav-insight": "Aperçu",
         "nav-contact": "Contact",
-        "hero-title": "Un cabinet d'avocats innovant et axé sur le client, offrant des résultats exceptionnels.",
+        "hero-title": "Un cabinet d'avocats innovant et axé sur le client.",
         "hero-title1": "Cabinet basé aux Émirats Arabes Unis.",
         "uae-title": "Émirats Arabes Unis",
         "uae-description": "Les Émirats arabes unis sont une fédération constitutionnelle de sept émirats établie le 10 décembre 1971. À la croisée des chemins entre l'Ouest et l'Est, les Émirats sont un pays politiquement et économiquement stable et occupent la 25e place mondiale dans le Rapport sur la compétitivité mondiale 2019 du Forum économique mondial, au cœur des échanges et des relations commerciales. Reconnus comme un pays tolérant, les Émirats accueillent plus de 200 nationalités qui font des affaires, vivent, apprennent et explorent les Émirats, conformément à la vision de son premier président, le défunt S. A. Cheikh Zayed bin Sultan Al Nahyan, qui a créé un modèle unique de société et de coexistence. Chez ACD Law, nous adoptons la même vision et les mêmes valeurs, et c'est pourquoi notre équipe est désireuse d'aider et de conseiller nos clients sur ces principes.",
@@ -257,7 +253,6 @@ const translations = {
             "service7-item3": "Litiges civils et commerciaux : Expertise dans la résolution des litiges civils et commerciaux par l'arbitrage.",
             "service7-item4": "Centre international d'arbitrage de Dubaï (DIAC) : Vaste expérience dans la contestation de réclamations au DIAC.",
             "service7-item5": "Autres centres d'arbitrage : Compétence dans la gestion de cas dans divers centres d'arbitrage aux Émirats arabes unis.",
-            "service-title": "Notre service",
             "service7-content": "Notre équipe est spécialisée en arbitrage et en litiges, tant à l'intérieur qu'à l'extérieur des Émirats arabes unis. Nous apportons une expertise étendue en représentant des clients dans des procédures d'arbitrage, y compris des litiges immobiliers, des affaires civiles et des réclamations commerciales. Notre bilan éprouvé comprend des cas réussis dans des institutions de premier plan telles que le Centre international d'arbitrage de Dubaï (DIAC) et d'autres centres d'arbitrage reconnus. Que ce soit pour la rédaction d'accords d'arbitrage ou pour vous représenter dans des procédures complexes, nous sommes déterminés à obtenir des résultats favorables avec efficacité et professionnalisme.",
             
        
@@ -355,7 +350,7 @@ const translations = {
         "nav-services": "الخدمات",
         "nav-insight": "رؤية",
         "nav-contact": "اتصل بنا",
-        "hero-title": "شركة محاماة مبتكرة تركز على العملاء وتحقق نتائج استثنائية.",
+        "hero-title": "شركة محاماة مبتكرة تركز على إحتياجات العملاء.",
         "hero-title1": "شركة مقرها الإمارات العربية المتحدة.",
         "uae-title": "الإمارات العربية المتحدة",
         "uae-description": "الإمارات العربية المتحدة هي اتحاد دستوري يضم سبع إمارات، تأسس في 10 ديسمبر 1971. تقع الإمارات عند مفترق الطرق بين الغرب والشرق، وهي دولة مستقرة سياسيًا واقتصاديًا، وتحتل المرتبة 25 عالميًا في تقرير التنافسية العالمية لعام 2019 الصادر عن المنتدى الاقتصادي العالمي، مما يجعلها في قلب التبادلات والعلاقات التجارية. تُعرف الإمارات بأنها دولة متسامحة، حيث تستضيف أكثر من 200 جنسية تعمل وتعيش وتتعلم وتستكشف الإمارات، وفقًا لرؤية رئيسها الأول، المغفور له بإذن الله الشيخ زايد بن سلطان آل نهيان، الذي أسس نموذجًا فريدًا للمجتمع والتعايش. في **ACD Law**، نحن نحتضن نفس الرؤية والقيم، ولذلك فإن فريقنا حريص على مساعدة عملائنا وتقديم الاستشارات لهم استنادًا إلى هذه المبادئ.",
@@ -432,7 +427,6 @@ const translations = {
             "service7-item3": "النزاعات المدنية والتجارية: الخبرة في حل النزاعات المدنية والتجارية من خلال التحكيم.",
             "service7-item4": "مركز دبي الدولي للتحكيم (DIAC): خبرة واسعة في الطعن في المطالبات في DIAC.",
             "service7-item5": "مراكز تحكيم أخرى: الكفاءة في التعامل مع القضايا في مراكز تحكيم متنوعة داخل الإمارات العربية المتحدة.",
-            "service-title": "خدماتنا",
             "service7-content": "في Acker Choquette Dray Legal Consultants، نقدم خدمات متخصصة في التحكيم وحل النزاعات في الإمارات العربية المتحدة. يتمتع فريقنا بخبرة واسعة في التعامل مع النزاعات المدنية والتجارية، ويقدم حلولًا مخصصة لتلبية احتياجات العملاء. نحن نقدم خدمات التحكيم في مراكز مختلفة مثل مركز دبي الدولي للتحكيم (DIAC) ومراكز تحكيم أخرى في الإمارات العربية المتحدة. سواء كنت بحاجة إلى تسوية نزاع تجاري أو حل نزاع مدني، فإننا هنا لمساعدتك في تحقيق أفضل النتائج بكفاءة وفعالية.",
         
         

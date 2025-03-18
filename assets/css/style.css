@@ -2838,7 +2838,6 @@ body.loaded #preloader-active {
   color: #fff;
   font-size: 16px;
   padding: 10px 30px;
-  border: 2px solid #ffffff;
   border-radius: 50px;
   cursor: pointer;
   font-weight: 600;
@@ -2862,7 +2861,6 @@ body.loaded #preloader-active {
   top: 100%;
   left: 0;
   border-radius: 15px;
-  border: 2px solid #ffffff;
 }
 
 .dropdown-content a {
