@@ -46,7 +46,7 @@ const translations = {
             "service3-item6": "Compliance: Ensuring compliance with UAE laws, regulations, and procedures throughout the criminal process.",
        
         "service3-description": "Our criminal law and compliance services in the UAE are designed to provide expert guidance and robust defense. With a deep understanding of the complexities of UAE criminal law and the Dubai justice system, our team of seasoned lawyers ensures comprehensive support throughout every stage of your case. From sound legal advice to developing effective, tailored defense strategies, we are committed to protecting your rights and achieving the best possible outcomes.",
-        "service3-item3": "Investigation Support: Assisting in the investigation phase by ensuring all evidence is handled properly and fairly.",
+        "service3-item3": "Criminal claim: Assisting victims of criminal offences and guide them throughout the judicial process. At ACD Law we are assisting victims from the claim to the damages allocation with our team of Emirati's Attorneys",
       
             "service3-content": "At Acker Choquette Dray Legal Consultants, we specialize in criminal law, offering expert defense strategies and legal advice in the UAE. Our experienced legal team is committed to providing robust representation in criminal cases. We guide clients through every stage of the criminal justice process, ensuring that their rights are protected and their best interests are upheld. All procedures are handled in collaboration with local attorneys representing clients in front of UAE Courts.",
         "service4": "Immigration Law",
@@ -211,7 +211,7 @@ const translations = {
             "service3-item5": "Appels : Représentation des clients dans les procédures d'appel devant diverses juridictions, y compris le tribunal de première instance, la cour d'appel et la Cour suprême, pour contester des condamnations ou des peines injustes.",
             "service3-item6": "Conformité : Garantie du respect des lois, règlements et procédures des Émirats arabes unis tout au long du processus pénal.",
         "service3-description": "Nos services en droit pénal et conformité aux Émirats Arabes Unis sont conçus pour fournir des conseils d'experts et une défense solide. Avec une compréhension approfondie des complexités du droit pénal des Émirats et du système judiciaire de Dubaï, notre équipe d'avocats expérimentés assure un soutien complet à chaque étape de votre affaire. De la consultation juridique à l'élaboration de stratégies de défense efficaces et adaptées, nous nous engageons à protéger vos droits et à obtenir les meilleurs résultats possibles.",
-        "service3-item3": "Soutien aux enquêtes : Assistance lors de la phase d'enquête en veillant à ce que toutes les preuves soient traitées correctement et équitablement.",
+        "service3-item3": "Réclamation pénale : Aider les victimes d'infractions pénales et les guider tout au long du processus judiciaire. Chez ACD Law, nous aidons les victimes de la réclamation à l'allocation des dommages avec notre équipe d'avocats émiratis.",
         "service4": "Droit de l'immigration",
         "service4-description": "Le droit de l'immigration régit les processus et réglementations juridiques concernant l'entrée, la résidence et le départ des individus d'un pays. Il couvre un large éventail de questions, notamment les visas, les permis de travail, la résidence et la citoyenneté, garantissant la conformité aux lois nationales et internationales.",
         "service4-key": "Les principaux domaines du droit de l'immigration comprennent :",
@@ -381,7 +381,7 @@ const translations = {
             "service3-item6": "الامتثال: ضمان الامتثال لقوانين ولوائح وإجراءات دولة الإمارات العربية المتحدة طوال العملية الجنائية.",
           
                 "service3-content": "في شركة أكير شوكيت دراي للاستشارات القانونية، نحن متخصصون في القانون الجنائي، ونقدم استراتيجيات دفاع متخصصة ومشورة قانونية في الإمارات العربية المتحدة. فريقنا القانوني المتمرس ملتزم بتقديم تمثيل قوي في القضايا الجنائية. نحن نرشد العملاء خلال كل مرحلة من مراحل العدالة الجنائية، مضمونين حماية حقوقهم والحفاظ على مصالحهم الفضلى. تُدار جميع الإجراءات بالتعاون مع المحامين المحليين الذين يمثلون العملاء أمام محاكم الإمارات العربية المتحدة.",
-        "service3-item3": "دعم التحقيق: المساعدة في مرحلة التحقيق من خلال ضمان التعامل مع جميع الأدلة بشكل صحيح وعادل.",
+        "service3-item3": "المطالبات الجنائية: مساعدة ضحايا الجرائم الجنائية وإرشادهم خلال العملية القضائية. في مكتب **ACD Law**، نقوم بمساعدة الضحايا من تقديم الدعوى حتى تخصيص التعويضات، وذلك من خلال فريقنا من المحامين الإماراتيين.",
         "service4": "قانون الهجرة",
         "service4-description": "يحكم قانون الهجرة العمليات القانونية واللوائح المتعلقة بدخول الأفراد وإقامتهم ومغادرتهم للبلد. ويشمل مجموعة واسعة من القضايا، بما في ذلك التأشيرات، وتصاريح العمل، والإقامة، والجنسية، مما يضمن الامتثال للقوانين الوطنية والدولية.",
         "service4-key": "تشمل المجالات الرئيسية لقانون الهجرة ما يلي:",
