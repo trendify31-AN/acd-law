@@ -4344,6 +4344,7 @@ body.loaded #preloader-active {
 }
 .project-area .project-caption .single-project .project-cap h4 a, .about-area .project-caption .single-project .project-cap h4 a, .contact-section .project-caption .single-project .project-cap h4 a {
   color: #0e132a;
+  text-transform: capitalize;
 }
 .project-area .project-caption .single-project .project-cap h4 a:hover, .about-area .project-caption .single-project .project-cap h4 a:hover, .contact-section .project-caption .single-project .project-cap h4 a:hover {
   color: #c7ae24;
@@ -7317,6 +7318,19 @@ del {
 
 .switch-wrap {
   margin-bottom: 10px;
+}
+
+[lang="ar"] .support-company-area .support-wrapper .right-content .foreground {
+  z-index: 2;
+  left: 250px; /* Moves 250px further left from the original -60px */
+  top: -60px;
+  transform: scale(1.08);
+  opacity: 1;
+}
+
+[lang="ar"] .section-tittle.section-tittle2 .front-text h2 {
+  font-size: 70px;
+  text-align: center;
 }
 
 /*# sourceMappingURL=style.css.map */
